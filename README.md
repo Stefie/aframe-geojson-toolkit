@@ -3,7 +3,7 @@ A selection of different geoJSON components for A-Frame VR
 
 ## What's going to be here soon:
 ### geojson-globe component
-An A-Frame component that allows you to to just pass a valid geoJSON to a geojson-globe component. The component will take of adding point or multipoint markers as aframe entities to a sphere with an equirectangular earh map as a material.
+An A-Frame component that allows you to to just pass a valid geoJSON to a geojson-globe component. The component will add point or multipoint markers as aframe entities to a sphere with an equirectangular earh map as a material.
 You can choose between an inside and an outside mode.
 
 | Property | Settings | Notes |
@@ -17,4 +17,4 @@ You can choose between an inside and an outside mode.
 | globeSide | inside / outside |  |
 
 ## globe component
-interact with countries, choose countries to display
+interact globe-component with countries, choose countries to display
