@@ -16,5 +16,19 @@ You can choose between an inside and an outside mode.
 | globeRadius | radius of the globe |  |
 | globeSide | inside / outside |  |
 
+## type point
+
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [125.6, 10.1]
+  },
+  "properties": {
+    "label": "Dinagat Islands"
+  }
+}
+
+
 ## globe component
 interact globe-component with countries, choose countries to display
